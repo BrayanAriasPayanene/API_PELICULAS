@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    background-color: #60CCCA;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 1200'%3E%3Cdefs%3E%3ClinearGradient id='a' x1='0' x2='0' y1='0' y2='100%25' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='0' stop-color='%23add5d4'/%3E%3Cstop offset='0.02' stop-color='%2360CCCA'/%3E%3Cstop offset='0.02' stop-color='%2362c9c7'/%3E%3Cstop offset='0.032' stop-color='%2360CCCA'/%3E%3Cstop offset='0.032' stop-color='%23203030'/%3E%3Cstop offset='0.056' stop-color='%2360CCCA'/%3E%3Cstop offset='0.056' stop-color='%2384c8c7'/%3E%3Cstop offset='0.07' stop-color='%2360CCCA'/%3E%3Cstop offset='0.07' stop-color='%23768282'/%3E%3Cstop offset='0.1' stop-color='%2360CCCA'/%3E%3Cstop offset='0.1' stop-color='%238dc0be'/%3E%3Cstop offset='0.126' stop-color='%2360CCCA'/%3E%3Cstop offset='0.126' stop-color='%2372b7b6'/%3E%3Cstop offset='0.142' stop-color='%2360CCCA'/%3E%3Cstop offset='0.142' stop-color='%238dcbca'/%3E%3Cstop offset='0.159' stop-color='%2360CCCA'/%3E%3Cstop offset='0.159' stop-color='%2388cfcd'/%3E%3Cstop offset='0.17' stop-color='%2360CCCA'/%3E%3Cstop offset='0.17' stop-color='%2378afae'/%3E%3Cstop offset='0.197' stop-color='%2360CCCA'/%3E%3Cstop offset='0.197' stop-color='%23c2c7c7'/%3E%3Cstop offset='0.218' stop-color='%2360CCCA'/%3E%3Cstop offset='0.218' stop-color='%23e4f1f1'/%3E%3Cstop offset='0.239' stop-color='%2360CCCA'/%3E%3Cstop offset='0.239' stop-color='%2393cbca'/%3E%3Cstop offset='0.254' stop-color='%2360CCCA'/%3E%3Cstop offset='0.254' stop-color='%2376d0ce'/%3E%3Cstop offset='0.283' stop-color='%2360CCCA'/%3E%3Cstop offset='0.283' stop-color='%236dc3c1'/%3E%3Cstop offset='0.294' stop-color='%2360CCCA'/%3E%3Cstop offset='0.294' stop-color='%2393d3d1'/%3E%3Cstop offset='0.305' stop-color='%2360CCCA'/%3E%3Cstop offset='0.305' stop-color='%2397d2d1'/%3E%3Cstop offset='0.332' stop-color='%2360CCCA'/%3E%3Cstop offset='0.332' stop-color='%23b0dbda'/%3E%3Cstop offset='0.346' stop-color='%2360CCCA'/%3E%3Cstop offset='0.346' stop-color='%23666f6f'/%3E%3Cstop offset='0.362' stop-color='%2360CCCA'/%3E%3Cstop offset='0.362' stop-color='%2376cecc'/%3E%3Cstop offset='0.381' stop-color='%2360CCCA'/%3E%3Cstop offset='0.381' stop-color='%2380ccca'/%3E%3Cstop offset='0.415' stop-color='%2360CCCA'/%3E%3Cstop offset='0.415' stop-color='%2351a4a3'/%3E%3Cstop offset='0.428' stop-color='%2360CCCA'/%3E%3Cstop offset='0.428' stop-color='%2375908f'/%3E%3Cstop offset='0.442' stop-color='%2360CCCA'/%3E%3Cstop offset='0.442' stop-color='%2363c0be'/%3E%3Cstop offset='0.456' stop-color='%2360CCCA'/%3E%3Cstop offset='0.456' stop-color='%23c4caca'/%3E%3Cstop offset='0.498' stop-color='%2360CCCA'/%3E%3Cstop offset='0.498' stop-color='%236ca2a1'/%3E%3Cstop offset='0.511' stop-color='%2360CCCA'/%3E%3Cstop offset='0.511' stop-color='%2363bdbb'/%3E%3Cstop offset='0.532' stop-color='%2360CCCA'/%3E%3Cstop offset='0.532' stop-color='%23c9d8d8'/%3E%3Cstop offset='0.541' stop-color='%2360CCCA'/%3E%3Cstop offset='0.541' stop-color='%238bcfcd'/%3E%3Cstop offset='0.56' stop-color='%2360CCCA'/%3E%3Cstop offset='0.56' stop-color='%2399d3d2'/%3E%3Cstop offset='0.581' stop-color='%2360CCCA'/%3E%3Cstop offset='0.581' stop-color='%239cc6c5'/%3E%3Cstop offset='0.6' stop-color='%2360CCCA'/%3E%3Cstop offset='0.6' stop-color='%2363bfbd'/%3E%3Cstop offset='0.618' stop-color='%2360CCCA'/%3E%3Cstop offset='0.618' stop-color='%23dde7e7'/%3E%3Cstop offset='0.656' stop-color='%2360CCCA'/%3E%3Cstop offset='0.656' stop-color='%23d7efee'/%3E%3Cstop offset='0.679' stop-color='%2360CCCA'/%3E%3Cstop offset='0.679' stop-color='%239ad6d5'/%3E%3Cstop offset='0.689' stop-color='%2360CCCA'/%3E%3Cstop offset='0.689' stop-color='%23c0d4d4'/%3E%3Cstop offset='0.720' stop-color='%2360CCCA'/%3E%3Cstop offset='0.720' stop-color='%23d7e7e7'/%3E%3Cstop offset='0.734' stop-color='%2360CCCA'/%3E%3Cstop offset='0.734' stop-color='%23a8c3c2'/%3E%3Cstop offset='0.748' stop-color='%2360CCCA'/%3E%3Cstop offset='0.748' stop-color='%236b9190'/%3E%3Cstop offset='0.764' stop-color='%2360CCCA'/%3E%3Cstop offset='0.764' stop-color='%23c2d0d0'/%3E%3Cstop offset='0.788' stop-color='%2360CCCA'/%3E%3Cstop offset='0.788' stop-color='%23a3b0b0'/%3E%3Cstop offset='0.808' stop-color='%2360CCCA'/%3E%3Cstop offset='0.808' stop-color='%236aabaa'/%3E%3Cstop offset='0.831' stop-color='%2360CCCA'/%3E%3Cstop offset='0.831' stop-color='%23848f8f'/%3E%3Cstop offset='0.856' stop-color='%2360CCCA'/%3E%3Cstop offset='0.856' stop-color='%23f2f8f7'/%3E%3Cstop offset='0.872' stop-color='%2360CCCA'/%3E%3Cstop offset='0.872' stop-color='%2389a9a8'/%3E%3Cstop offset='0.894' stop-color='%2360CCCA'/%3E%3Cstop offset='0.894' stop-color='%23c2c2c2'/%3E%3Cstop offset='0.914' stop-color='%2360CCCA'/%3E%3Cstop offset='0.914' stop-color='%23b6dad9'/%3E%3Cstop offset='0.942' stop-color='%2360CCCA'/%3E%3Cstop offset='0.942' stop-color='%23bcc8c7'/%3E%3Cstop offset='0.957' stop-color='%2360CCCA'/%3E%3Cstop offset='0.957' stop-color='%235da3a2'/%3E%3Cstop offset='0.973' stop-color='%2360CCCA'/%3E%3Cstop offset='0.973' stop-color='%23d5e0df'/%3E%3Cstop offset='1' stop-color='%2360CCCA'/%3E%3Cstop offset='1' stop-color='%23509e9c'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect fill='url(%23a)' x='0' y='0' width='100%25' height='100%25'/%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;
+}
+.posters {
+    display: flex;
+    flex-wrap: wrap; /*Con flex grap me alinea todas las imagenes, adicionalmente la buelve responsive*/
+    background-color: #60CCCA;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 1200'%3E%3Cdefs%3E%3ClinearGradient id='a' x1='0' x2='0' y1='0' y2='100%25' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='0' stop-color='%23add5d4'/%3E%3Cstop offset='0.02' stop-color='%2360CCCA'/%3E%3Cstop offset='0.02' stop-color='%2362c9c7'/%3E%3Cstop offset='0.032' stop-color='%2360CCCA'/%3E%3Cstop offset='0.032' stop-color='%23203030'/%3E%3Cstop offset='0.056' stop-color='%2360CCCA'/%3E%3Cstop offset='0.056' stop-color='%2384c8c7'/%3E%3Cstop offset='0.07' stop-color='%2360CCCA'/%3E%3Cstop offset='0.07' stop-color='%23768282'/%3E%3Cstop offset='0.1' stop-color='%2360CCCA'/%3E%3Cstop offset='0.1' stop-color='%238dc0be'/%3E%3Cstop offset='0.126' stop-color='%2360CCCA'/%3E%3Cstop offset='0.126' stop-color='%2372b7b6'/%3E%3Cstop offset='0.142' stop-color='%2360CCCA'/%3E%3Cstop offset='0.142' stop-color='%238dcbca'/%3E%3Cstop offset='0.159' stop-color='%2360CCCA'/%3E%3Cstop offset='0.159' stop-color='%2388cfcd'/%3E%3Cstop offset='0.17' stop-color='%2360CCCA'/%3E%3Cstop offset='0.17' stop-color='%2378afae'/%3E%3Cstop offset='0.197' stop-color='%2360CCCA'/%3E%3Cstop offset='0.197' stop-color='%23c2c7c7'/%3E%3Cstop offset='0.218' stop-color='%2360CCCA'/%3E%3Cstop offset='0.218' stop-color='%23e4f1f1'/%3E%3Cstop offset='0.239' stop-color='%2360CCCA'/%3E%3Cstop offset='0.239' stop-color='%2393cbca'/%3E%3Cstop offset='0.254' stop-color='%2360CCCA'/%3E%3Cstop offset='0.254' stop-color='%2376d0ce'/%3E%3Cstop offset='0.283' stop-color='%2360CCCA'/%3E%3Cstop offset='0.283' stop-color='%236dc3c1'/%3E%3Cstop offset='0.294' stop-color='%2360CCCA'/%3E%3Cstop offset='0.294' stop-color='%2393d3d1'/%3E%3Cstop offset='0.305' stop-color='%2360CCCA'/%3E%3Cstop offset='0.305' stop-color='%2397d2d1'/%3E%3Cstop offset='0.332' stop-color='%2360CCCA'/%3E%3Cstop offset='0.332' stop-color='%23b0dbda'/%3E%3Cstop offset='0.346' stop-color='%2360CCCA'/%3E%3Cstop offset='0.346' stop-color='%23666f6f'/%3E%3Cstop offset='0.362' stop-color='%2360CCCA'/%3E%3Cstop offset='0.362' stop-color='%2376cecc'/%3E%3Cstop offset='0.381' stop-color='%2360CCCA'/%3E%3Cstop offset='0.381' stop-color='%2380ccca'/%3E%3Cstop offset='0.415' stop-color='%2360CCCA'/%3E%3Cstop offset='0.415' stop-color='%2351a4a3'/%3E%3Cstop offset='0.428' stop-color='%2360CCCA'/%3E%3Cstop offset='0.428' stop-color='%2375908f'/%3E%3Cstop offset='0.442' stop-color='%2360CCCA'/%3E%3Cstop offset='0.442' stop-color='%2363c0be'/%3E%3Cstop offset='0.456' stop-color='%2360CCCA'/%3E%3Cstop offset='0.456' stop-color='%23c4caca'/%3E%3Cstop offset='0.498' stop-color='%2360CCCA'/%3E%3Cstop offset='0.498' stop-color='%236ca2a1'/%3E%3Cstop offset='0.511' stop-color='%2360CCCA'/%3E%3Cstop offset='0.511' stop-color='%2363bdbb'/%3E%3Cstop offset='0.532' stop-color='%2360CCCA'/%3E%3Cstop offset='0.532' stop-color='%23c9d8d8'/%3E%3Cstop offset='0.541' stop-color='%2360CCCA'/%3E%3Cstop offset='0.541' stop-color='%238bcfcd'/%3E%3Cstop offset='0.56' stop-color='%2360CCCA'/%3E%3Cstop offset='0.56' stop-color='%2399d3d2'/%3E%3Cstop offset='0.581' stop-color='%2360CCCA'/%3E%3Cstop offset='0.581' stop-color='%239cc6c5'/%3E%3Cstop offset='0.6' stop-color='%2360CCCA'/%3E%3Cstop offset='0.6' stop-color='%2363bfbd'/%3E%3Cstop offset='0.618' stop-color='%2360CCCA'/%3E%3Cstop offset='0.618' stop-color='%23dde7e7'/%3E%3Cstop offset='0.656' stop-color='%2360CCCA'/%3E%3Cstop offset='0.656' stop-color='%23d7efee'/%3E%3Cstop offset='0.679' stop-color='%2360CCCA'/%3E%3Cstop offset='0.679' stop-color='%239ad6d5'/%3E%3Cstop offset='0.689' stop-color='%2360CCCA'/%3E%3Cstop offset='0.689' stop-color='%23c0d4d4'/%3E%3Cstop offset='0.720' stop-color='%2360CCCA'/%3E%3Cstop offset='0.720' stop-color='%23d7e7e7'/%3E%3Cstop offset='0.734' stop-color='%2360CCCA'/%3E%3Cstop offset='0.734' stop-color='%23a8c3c2'/%3E%3Cstop offset='0.748' stop-color='%2360CCCA'/%3E%3Cstop offset='0.748' stop-color='%236b9190'/%3E%3Cstop offset='0.764' stop-color='%2360CCCA'/%3E%3Cstop offset='0.764' stop-color='%23c2d0d0'/%3E%3Cstop offset='0.788' stop-color='%2360CCCA'/%3E%3Cstop offset='0.788' stop-color='%23a3b0b0'/%3E%3Cstop offset='0.808' stop-color='%2360CCCA'/%3E%3Cstop offset='0.808' stop-color='%236aabaa'/%3E%3Cstop offset='0.831' stop-color='%2360CCCA'/%3E%3Cstop offset='0.831' stop-color='%23848f8f'/%3E%3Cstop offset='0.856' stop-color='%2360CCCA'/%3E%3Cstop offset='0.856' stop-color='%23f2f8f7'/%3E%3Cstop offset='0.872' stop-color='%2360CCCA'/%3E%3Cstop offset='0.872' stop-color='%2389a9a8'/%3E%3Cstop offset='0.894' stop-color='%2360CCCA'/%3E%3Cstop offset='0.894' stop-color='%23c2c2c2'/%3E%3Cstop offset='0.914' stop-color='%2360CCCA'/%3E%3Cstop offset='0.914' stop-color='%23b6dad9'/%3E%3Cstop offset='0.942' stop-color='%2360CCCA'/%3E%3Cstop offset='0.942' stop-color='%23bcc8c7'/%3E%3Cstop offset='0.957' stop-color='%2360CCCA'/%3E%3Cstop offset='0.957' stop-color='%235da3a2'/%3E%3Cstop offset='0.973' stop-color='%2360CCCA'/%3E%3Cstop offset='0.973' stop-color='%23d5e0df'/%3E%3Cstop offset='1' stop-color='%2360CCCA'/%3E%3Cstop offset='1' stop-color='%23509e9c'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect fill='url(%23a)' x='0' y='0' width='100%25' height='100%25'/%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.posters > *{  /*Con esto le estoy diciendo que seleccione a todos los hijos de posters*/
+    cursor: pointer; /*Y con esto le estoy indicando que cuando este encima del elemento el cursor tome la forma de mano*/
+}
+
+.posters > div { /*Le estoy indicando que seleccione el div de p    oster*/
+    margin: 20px;
+    transition: ease-in 0.2s; /*Y esta linea hace que la transision se demore el tiempo indicado*/
+
+}
+
+.contenedor {
+
+        display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.year {
+    display: none;
+    position: absolute;
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+
+.contenedor:hover{
+    transform: scale(0.9); /*Cambia el tamaño de la imagen. si se ler coloca 1, no va a pasar nada por que es el tamaño original*/
+}
+
+.contenedor:hover> img {
+    opacity: 0.2;
+    z-index: -1 ;
+}
+
+.contenedor:hover .year{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.buscar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.buscar >   input{
+    height: 60%;
+    width: 50%;
+    margin-right: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.buscar > button{
+    height: 60%;
+    width: 10%;
+    border-radius: 10px;
+}
+    
+.barra_buscar{
+    height: 100px;
+}
